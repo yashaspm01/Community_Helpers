@@ -1,0 +1,22 @@
+{
+  "name": "rapt-community-website",
+  "version": "1.0.0",
+  "description": "A community website built by Team Solve-Ease",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "start": "python -m http.server 8000"
+  },
+  "keywords": [
+    "community",
+    "website",
+    "frontend",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Team Solve-Ease",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {}
+}
